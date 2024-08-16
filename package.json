@@ -1,7 +1,6 @@
 {
-  "name": "React",
+  "name": "easy_peasy_redux",
   "version": "0.1.0",
-  "homepage": "https://Paul1993.github.io/easy_peasy_redux",
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
@@ -38,8 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
